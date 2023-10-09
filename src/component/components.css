@@ -1,0 +1,7 @@
+.card-title span{
+    width: 300px; /* Adjust the width as needed */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
